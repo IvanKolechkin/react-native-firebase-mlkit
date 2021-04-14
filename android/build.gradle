@@ -32,5 +32,6 @@ repositories {
 dependencies {
     implementation 'com.google.firebase:firebase-core:+'
     implementation 'com.google.firebase:firebase-ml-vision:+'
+    implementation 'com.google.firebase:firebase-ml-vision-barcode-model:+'
     implementation 'com.facebook.react:react-native:+'
 }
